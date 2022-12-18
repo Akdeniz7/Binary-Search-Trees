@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1671380995 source:c:\users\ahmet\desktop\binary-search-trees\main.c
+	"stdio.h"
+	"stdlib.h"
+	"string.h"
+
